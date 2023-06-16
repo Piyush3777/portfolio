@@ -15,9 +15,9 @@ _[Blog](biosuperstars.com)
 
 ### The website showcases the iconic brands Hercules, BSA, and Montra, known for their commitment to innovation, durability, and performance.
 
--Using Javascript,Jquery,Slick library,Select2 library,Bootstrap and core front-end technologies.
--The aim of this website is to provide a seamless online platform for customers to discover, purchase, and  enabling them to embark on extraordinary adventures.
--The website has experienced tremendous success, attracting a wide customer base and achieving significant sales growth. 
+_Using Javascript,Jquery,Slick library,Select2 library,Bootstrap and core front-end technologies.
+_The aim of this website is to provide a seamless online platform for customers to discover, purchase, and  enabling them to embark on extraordinary adventures.
+_The website has experienced tremendous success, attracting a wide customer base and achieving significant sales growth. 
 
    
    
